@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://uwsite.netlify.app/"
 languageCode: en-us
 title: An Only Urie W Site
 theme: PaperMod
