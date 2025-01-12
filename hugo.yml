@@ -1,0 +1,53 @@
+baseURL: ""
+languageCode: en-us
+title: An Only Urie W Site
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Welcome to the An Only Urie W Site!"
+    Content: "Hi! I'm the CEO of Urie W, Urie Wilson. As I make progress throughout the day,
+    I watch out for my surroundings with expert intel knowledge. As funny as it sounds, I still bring on
+    the humor! This is my personal page, so this will be a memorable moment, someday..."
+    socialIcons:
+      name: facebook
+      url: "https://facebook.com/"
+      name: tiktok
+      url: "https://tiktok.com/"
+      name: discord
+      url: "https://discord.com/"
+      name: youtube
+      url: "https://youtube.com/"
+      name: steam
+      url: "https://steampowered.com/"
+
+ShowReadingTime: true
+
+ShowShareButtons: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 40
+    - identifier: links
+      name: Links
+      url: /links/
+      weight: 50
+    - identifier: guides
+      name: Guides
+      url: /guides/
+      weight: 60
