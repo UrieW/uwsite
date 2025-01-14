@@ -12,7 +12,7 @@ A few guides are live!!!
 They are about making books. Can you master them all?
 
 
-# Guides(As of 1/13/2025)
+# Guides(As of 1/13/2025)  
 
 [Book Formatting Guide](https://uwsite.netlify.app\guide\book-fd)
 
