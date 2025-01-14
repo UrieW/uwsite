@@ -6,9 +6,9 @@ categories = ["book"]
 +++
 
 # ***Disclaimer: This is the format of a book a made very well from my***
-# ***company. Please, use it with utter care!!!!***
+# ***company. Please, use it with utter care!!!!***  
 
-Size Details(for use in page styles):
+# Size Details(for use in page styles):  
 
 ----------------------------------
 
@@ -27,7 +27,7 @@ following chapter title names, as entry format
 
 ----------------------------------
 
-Format Order(as page styles):
+# Format Order(as page styles):  
 
 ----------------------------------
 

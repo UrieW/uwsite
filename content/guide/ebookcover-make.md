@@ -5,7 +5,7 @@ tags = ["guides","art","tools"]
 category = ["ebook"]
 +++
 
-# Instructions(KDP)
+# Instructions(KDP)  
 
 1. Open Inkscape
 
@@ -26,7 +26,7 @@ boundaries of the document
 
 ----------------------------------------------------
 
-# IngramSpark instructions:
+# IngramSpark instructions:  
 
 1. Open Inkscape
 

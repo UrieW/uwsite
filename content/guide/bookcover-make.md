@@ -5,7 +5,7 @@ tags = ["guides","art","tools"]
 categories = ["book"]
 +++
 
-# Instructions(KDP)
+# Instructions(KDP)  
 
 1. Download the right blueprint of your book cover
 
@@ -70,7 +70,7 @@ info located in its text, with a dpi level above 300
 
 ----------------------------------------------------
 
-# IngramSpark directions:
+# IngramSpark directions:  
 
 
 1. Log into IngramSpark

@@ -5,7 +5,7 @@ tags = ["guides","formats"]
 categories = ["ebook"]
 +++
 
-Size Details(for use in page styles):
+# Size Details(for use in page styles):  
 
 ----------------------------------
 
@@ -20,7 +20,7 @@ Inner(Gutter) Size: Same as real book
 ToC(Table of Contents) Format: dot-less, page-numberless, link-oriented
 
 
-Format Order(as page styles):
+# Format Order(as page styles):  
 
 ----------------------------------
 
@@ -30,13 +30,13 @@ All page styles of real book, as a single-page-view-oriented, mirrored page
 style(No blank pages!!!), with no headers, nor footers nor page numbers!
 
 
-Format for Maunscript:
+# Format for Maunscript:  
 
 -------------------------------------
 
 .odt
 
-Format for Manuscript Export:
+# Format for Manuscript Export:  
 
 -------------------------------------
 

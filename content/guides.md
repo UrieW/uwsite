@@ -6,7 +6,7 @@ summary = 'guides'
   
 -----------------------------------------------------------------  
 
-# Books
+# Books  
 
 [Book Formatting Guide](https://uwsite.netlify.app\guide\book-fd)
 
@@ -14,7 +14,7 @@ summary = 'guides'
 
 -----------------------------------------------------------------  
 
-# Ebooks
+# Ebooks  
 
 [Ebook Conversion Guide](https://uwsite.netlify.app\guide\ebook-convert)
 
