@@ -1,7 +1,7 @@
 +++
 title = 'Guide Collection Update'
 date = 2025-01-13T19:57:44-06:00
-tags = ["web","status","update"]
+tags = ["web","status"]
 categories = ["update"]
 +++
 
@@ -14,12 +14,12 @@ They are about making books. Can you master them all?
 
 # Guides(As of 1/13/2025)  
 
-[Book Formatting Guide](https://uwsite.netlify.app\guide\book-fd)
+[Book Formatting Guide](content\guide\book-fd.md)
 
-[Book Cover Making Guide](https://uwsite.netlify.app\guide\bookcover-make)
+[Book Cover Making Guide](content\guide\bookcover-make.md)
 
-[Ebook Conversion Guide](https://uwsite.netlify.app\guide\ebook-convert)
+[Ebook Conversion Guide](content\guide\ebook-convert.md)
 
-[Ebook Formatting Guide](https://uwsite.netlify.app\guide\ebook-format)
+[Ebook Formatting Guide](content\guide\ebook-format.md)
 
-[Ebook Cover Making Guide](https://uwsite.netlify.app\guide\ebookcover-make)
+[Ebook Cover Making Guide](content\guide\ebookcover-make.md)

@@ -8,16 +8,16 @@ summary = 'guides'
 
 # Books  
 
-[Book Formatting Guide](https://uwsite.netlify.app\guide\book-fd)
+[Book Formatting Guide](content\guide\book-fd.md)
 
-[Book Cover Making Guide](https://uwsite.netlify.app\guide\bookcover-make)
+[Book Cover Making Guide](content\guide\bookcover-make.md)
 
 -----------------------------------------------------------------  
 
 # Ebooks  
 
-[Ebook Conversion Guide](https://uwsite.netlify.app\guide\ebook-convert)
+[Ebook Conversion Guide](content\guide\ebook-convert.md)
 
-[Ebook Formatting Guide](https://uwsite.netlify.app\guide\ebook-format)
+[Ebook Formatting Guide](content\guide\ebook-format.md)
 
-[Ebook Cover Making Guide](https://uwsite.netlify.app\guide\ebookcover-make)
+[Ebook Cover Making Guide](content\guide\ebookcover-make.md)
