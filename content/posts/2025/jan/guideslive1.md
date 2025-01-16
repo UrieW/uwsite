@@ -5,6 +5,9 @@ tags = ["web","status"]
 categories = ["update"]
 +++
 
+# ***Error: Links currently don't work!!! Try the tags and categories***
+# ***section! Thank you.***
+
 ------------------------------------------------------  
 
 A few guides are live!!!

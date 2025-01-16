@@ -3,7 +3,10 @@ title = 'Guides'
 url = '/guides/'
 summary = 'guides'
 +++
-  
+
+# ***Error: Links currently don't work!!! Try the tags and categories***
+# ***section! Thank you.***
+
 -----------------------------------------------------------------  
 
 # Books  
