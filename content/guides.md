@@ -4,23 +4,23 @@ url = '/guides/'
 summary = 'guides'
 +++
 
-# ***Error: Links currently don't work!!! Try the tags and categories***
-# ***section! Thank you.***
+## ***UPDATE(as of Jan 19th): The site has been partially fixed and this section***
+## ***has been updated, as part of the fix! Have a nice, extended weekend!!!***
 
 -----------------------------------------------------------------  
 
 # Books  
 
-[Book Formatting Guide](guide/book-fd)
+[Book Formatting Guide](book-fd)
 
-[Book Cover Making Guide](guide/bookcover-make)
+[Book Cover Making Guide](bookcover-make)
 
 -----------------------------------------------------------------  
 
 # Ebooks  
 
-[Ebook Conversion Guide](guide/ebook-convert)
+[Ebook Conversion Guide](ebook-convert)
 
-[Ebook Formatting Guide](guide/ebook-format)
+[Ebook Formatting Guide](ebook-format)
 
-[Ebook Cover Making Guide](guide/ebookcover-make)
+[Ebook Cover Making Guide](ebookcover-make)
