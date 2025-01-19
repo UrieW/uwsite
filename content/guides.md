@@ -11,16 +11,16 @@ summary = 'guides'
 
 # Books  
 
-[Book Formatting Guide](content\guide\book-fd.md)
+[Book Formatting Guide](guide\book-fd)
 
-[Book Cover Making Guide](content\guide\bookcover-make.md)
+[Book Cover Making Guide](guide\bookcover-make)
 
 -----------------------------------------------------------------  
 
 # Ebooks  
 
-[Ebook Conversion Guide](content\guide\ebook-convert.md)
+[Ebook Conversion Guide](guide\ebook-convert)
 
-[Ebook Formatting Guide](content\guide\ebook-format.md)
+[Ebook Formatting Guide](guide\ebook-format)
 
-[Ebook Cover Making Guide](content\guide\ebookcover-make.md)
+[Ebook Cover Making Guide](guide\ebookcover-make)

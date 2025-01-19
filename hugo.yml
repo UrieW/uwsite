@@ -9,21 +9,22 @@ params:
     Content: "Hi! I'm the CEO of Urie W, Urie Wilson. As I make progress throughout the day,
     I watch out for my surroundings with expert intel knowledge. As funny as it sounds, I still bring on
     the humor! This is my personal page, so this will be a memorable moment, someday..."
-    socialIcons:
-      name: facebook
+
+  socialIcons:
+    - name: facebook
       url: "https://facebook.com/"
-      name: tiktok
+    - name: tiktok
       url: "https://tiktok.com/"
-      name: discord
+    - name: discord
       url: "https://discord.com/"
-      name: youtube
+    - name: youtube
       url: "https://youtube.com/"
-      name: steam
+    - name: steam
       url: "https://steampowered.com/"
 
-ShowReadingTime: true
-
-ShowShareButtons: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowShareButtons: true
 
 menu:
   main:
