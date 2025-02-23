@@ -26,6 +26,16 @@ params:
   ShowPostNavLinks: true
   ShowShareButtons: true
 
+  mainSections:
+    - posts
+    - guides
+
+  comments: true
+
+services:
+  disqus:
+    shortname: an-only-urie-w-site
+
 menu:
   main:
     - identifier: posts
