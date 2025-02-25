@@ -3,7 +3,6 @@ title = 'Guide Collection Update'
 date = 2025-01-13T19:57:44-06:00
 tags = ["web","status"]
 categories = ["update"]
-weight = 3
 +++
 
 # ***UPDATE(02/22/2025): The error has been fully fixed!!!!!***

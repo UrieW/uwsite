@@ -3,7 +3,6 @@ title = 'Guides Page Update(As of 1/19/2025)'
 date = 2025-01-19T03:02:51-06:00
 tags = ["web","status"]
 categories = ["update"]
-weight = 1
 +++
 
 # Status Report  
