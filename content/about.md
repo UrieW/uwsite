@@ -28,3 +28,12 @@ and my peers at all times, and when I'm not, it's usually where
 sadness, anger and anxiety takes control, before I find the joys
 of finding the triggers of each and stopping them, while 
 learning more about the truth. And I'm not perfect, either.  
+
+
+
+You can contact me at offuriew@gmail.com.
+
+
+[Shop T&C](/shoptoc)
+
+[Site T&C](/toc)
