@@ -6,7 +6,7 @@ date = 2025-02-28T23:22:36-06:00
 # An Only Urie W Site Terms of Service ("Agreement")
 
 
-## ***This Agreement was last modified on February 28, 2025.***
+## ***This Agreement was last modified on March 1, 2025.***
 
 
 Please read these Terms of Service completely using uwsite.netlify.app which
@@ -25,8 +25,8 @@ Terms of Service.
 
 This site may collect comments and testimonials to promote the site or 
 anyone who interacted with the site. For what the shop collects, please see 
-the Urie W and An Only Urie W Shop Terms and Conditions("Agreement"), found 
-at COMING SOON.
+the An Only Urie W Shop Terms and Conditions("Agreement"), found 
+in the About section of the site.
 
 
 ## Intellectual Property

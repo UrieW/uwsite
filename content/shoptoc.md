@@ -5,7 +5,7 @@ date = 2025-02-28T23:23:10-06:00
 
 # An Only Urie W Site Shop Terms and Conditions("Agreement")
 
-## ***This Agreement was changed on February 28, 2025.***
+## ***This Agreement was last modified on March 1, 2025.***
 
 ## Privacy Policy
 
