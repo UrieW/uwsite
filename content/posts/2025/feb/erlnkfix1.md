@@ -7,7 +7,7 @@ tags = ["update"]
 
 ## Status Report(Feb 22, 2025):
 
-The guide pages' link error was fully made by the webdev's problem knowing
+The guide pages' link error was fully made by the webdev's problem of knowing
 how to link pages server-wise. The error has been fully fixed, and all pages
 affected in the first place have been updated to show the fix!!!
 
