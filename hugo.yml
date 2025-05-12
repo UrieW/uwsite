@@ -41,6 +41,8 @@ params:
 services:
   disqus:
     shortname: an-only-urie-w-site
+  googleAnalytics:
+    id: G-QVEP4SG29G
 
 menu:
   main:
