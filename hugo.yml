@@ -74,3 +74,11 @@ menu:
       name: Guides
       url: /guides/
       weight: 70
+
+disableKinds:
+  - page
+  - section
+  - taxonomy
+  - term
+  - single
+  - list
