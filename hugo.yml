@@ -9,5 +9,4 @@ disableKinds:
   - section
   - taxonomy
   - term
-  - single
-  - list
+  
