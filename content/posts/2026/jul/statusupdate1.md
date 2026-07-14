@@ -23,9 +23,13 @@ Both this site and my company's site will be turned into the main sources for my
 ## Uploaded the following posts as I updated all the guides:
 
 [Bleed vs No Bleed](/guides/book-bleed-vs-no-bleed)
+
 [Ebook Fix Guide](/guides/ebook-fix)
+
 [LibreOffice Writer Multi-Book Book Guide](/guides/lo-mb-book)
+
 [LibreOffice Writer Paragraph Styles Guide](/guides/lo-writer-parags)
+
 [LibreOffice Writer Page Styles Guide](/guides/lo-writer-ps)
 
 
