@@ -1,7 +1,6 @@
 +++
 title = 'LibreOffice Writer Multi-Book Book Guide'
 date = 2026-07-14T02:43:47-05:00
-draft = true
 tags = ["guides","formats"]
 categories = ["ebook","book"]
 +++

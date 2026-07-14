@@ -1,7 +1,6 @@
 +++
 title = 'Ebook Fix Guide'
 date = 2026-07-14T02:26:47-05:00
-draft = true
 tags = ["guides","formats","fixes"]
 categories = ["ebook"]
 +++

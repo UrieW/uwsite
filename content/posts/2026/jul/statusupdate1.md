@@ -1,7 +1,6 @@
 +++
-title = 'Statusupdate1'
+title = 'Status Update July 14'
 date = 2026-07-14T03:02:14-05:00
-draft = true
 categories = ["web","status"]
 tags = ["update","upgrade"]
 +++

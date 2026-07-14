@@ -1,7 +1,6 @@
 +++
 title = 'LibreOffice Writer Page Style Guide'
 date = 2026-07-14T02:38:46-05:00
-draft = true
 tags = ["guides","formats"]
 categories = ["ebook","book"]
 +++

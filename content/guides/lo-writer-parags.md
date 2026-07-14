@@ -1,7 +1,6 @@
 +++
 title = 'LibreOffice Writer Paragraph Style Guide'
 date = 2026-07-14T02:48:31-05:00
-draft = true
 tags = ["guides","formats"]
 categories = ["ebook","book"]
 +++

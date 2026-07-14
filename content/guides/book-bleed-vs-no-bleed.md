@@ -1,7 +1,6 @@
 +++
 title = 'Book Bleed vs No Bleed'
 date = 2026-07-14T02:54:05-05:00
-draft = true
 tags = ["guides","formats"]
 categories = ["book"]
 +++
