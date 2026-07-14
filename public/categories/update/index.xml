@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Update on An Only Urie W Site</title>
+    <link>http://localhost:1313/categories/update/</link>
+    <description>Recent content in Update on An Only Urie W Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jan 2025 03:02:51 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/update/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guides Page Update(As of 1/19/2025)</title>
+      <link>http://localhost:1313/posts/2025/jan/gprob1fix-1-1/</link>
+      <pubDate>Sun, 19 Jan 2025 03:02:51 -0600</pubDate>
+      <guid>http://localhost:1313/posts/2025/jan/gprob1fix-1-1/</guid>
+      <description>&lt;h1 id=&#34;status-report&#34;&gt;Status Report&lt;/h1&gt;
+&lt;p&gt;The &lt;em&gt;Guides&lt;/em&gt; page has been fixed and the site has been upgraded
+overnight! I&amp;rsquo;m still getting a hang of webdev and will fix
+the guide update post, shortly.&lt;/p&gt;
+&lt;p&gt;More upgrades will follow as I work on the site!!! Have a good,
+extended weekend!!!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Guide Link Update(Jan 14)</title>
+      <link>http://localhost:1313/posts/2025/jan/gprob1/</link>
+      <pubDate>Tue, 14 Jan 2025 22:51:10 -0600</pubDate>
+      <guid>http://localhost:1313/posts/2025/jan/gprob1/</guid>
+      <description>&lt;h1 id=&#34;status-report&#34;&gt;Status Report&lt;/h1&gt;
+&lt;p&gt;Ladies and gentlemen, there&amp;rsquo;s been an error with linking the guide pages
+in the &amp;lsquo;Guides&amp;rsquo; and latest guide update pages. Until it&amp;rsquo;s fixed, I&amp;rsquo;ll
+be working with my tools and forum accounts on the issue.&lt;/p&gt;
+&lt;p&gt;However, it has come to attention that the linked pages can be found on the site via the tags and categories found on the site.&lt;/p&gt;
+&lt;p&gt;And there will be more content in the future. Have a safe, new year!!!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Guide Collection Update</title>
+      <link>http://localhost:1313/posts/2025/jan/guideslive1/</link>
+      <pubDate>Mon, 13 Jan 2025 19:57:44 -0600</pubDate>
+      <guid>http://localhost:1313/posts/2025/jan/guideslive1/</guid>
+      <description>&lt;h1 id=&#34;update02222025-the-error-has-been-fully-fixed&#34;&gt;&lt;em&gt;&lt;strong&gt;UPDATE(02/22/2025): The error has been fully fixed!!!!!&lt;/strong&gt;&lt;/em&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;the-links-now-show-properly-thank-you-for-waiting&#34;&gt;&lt;em&gt;&lt;strong&gt;The links now show properly!!!! Thank you for waiting!!!!&lt;/strong&gt;&lt;/em&gt;&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;A few guides are live!!!&lt;/p&gt;
+&lt;p&gt;They are about making books. Can you master them all?&lt;/p&gt;
+&lt;h1 id=&#34;guidesas-of-1132025&#34;&gt;Guides(As of 1/13/2025)&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/guides/book-fd&#34;&gt;Book Formatting Guide&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/guides/bookcover-make&#34;&gt;Book Cover Making Guide&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/guides/ebook-convert&#34;&gt;Ebook Conversion Guide&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/guides/ebook-format&#34;&gt;Ebook Formatting Guide&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/guides/ebookcover-make&#34;&gt;Ebook Cover Making Guide&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

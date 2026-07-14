@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Update on An Only Urie W Site</title>
+    <link>http://localhost:1313/tags/update/</link>
+    <description>Recent content in Update on An Only Urie W Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Apr 2025 19:03:03 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website Update(4-14-2025)</title>
+      <link>http://localhost:1313/posts/2025/apr/statusupdate1/</link>
+      <pubDate>Mon, 14 Apr 2025 19:03:03 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/apr/statusupdate1/</guid>
+      <description>&lt;h2 id=&#34;status-update&#34;&gt;&lt;strong&gt;Status Update&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Over the last few months, we&amp;rsquo;ll be upgrading our website. The process
+will take longer than usual. We&amp;rsquo;ll make some posts to compensate for
+this, as soon as we finish.&lt;/p&gt;
+&lt;p&gt;Please feel free to enjoy our current content, while we upgrade our
+site in the process. Thank you!!!!!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Site Update(Feb 28, 2025)</title>
+      <link>http://localhost:1313/posts/2025/feb/tocupdate/</link>
+      <pubDate>Fri, 28 Feb 2025 23:38:01 -0600</pubDate>
+      <guid>http://localhost:1313/posts/2025/feb/tocupdate/</guid>
+      <description>&lt;h1 id=&#34;status-report&#34;&gt;Status Report&lt;/h1&gt;
+&lt;p&gt;The site had added the T&amp;amp;C agreements:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/shoptoc&#34;&gt;Shop T&amp;amp;C&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/toc&#34;&gt;Site T&amp;amp;C&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;They can be found on the About section of the site.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Disqus Update!!!</title>
+      <link>http://localhost:1313/posts/2025/feb/disqus-update/</link>
+      <pubDate>Sat, 22 Feb 2025 22:19:09 -0600</pubDate>
+      <guid>http://localhost:1313/posts/2025/feb/disqus-update/</guid>
+      <description>&lt;h2 id=&#34;site-upgrade-detailsfeb-22-2025&#34;&gt;Site Upgrade Details(Feb 22, 2025):&lt;/h2&gt;
+&lt;p&gt;Feel free to fire away at that post you&amp;rsquo;ve been waiting to talk about,
+thanks to Disqus!!!! We&amp;rsquo;d love to hear from you!!!!&lt;/p&gt;
+&lt;p&gt;Please remember to be respectful and kind. Thank you!!!!!!!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Error Link Update(Feb 22)</title>
+      <link>http://localhost:1313/posts/2025/feb/erlnkfix1/</link>
+      <pubDate>Sat, 22 Feb 2025 22:05:07 -0600</pubDate>
+      <guid>http://localhost:1313/posts/2025/feb/erlnkfix1/</guid>
+      <description>&lt;h2 id=&#34;status-reportfeb-22-2025&#34;&gt;Status Report(Feb 22, 2025):&lt;/h2&gt;
+&lt;p&gt;The guide pages&amp;rsquo; link error was fully made by the webdev&amp;rsquo;s problem of knowing
+how to link pages server-wise. The error has been fully fixed, and all pages
+affected in the first place have been updated to show the fix!!!&lt;/p&gt;
+&lt;p&gt;Thank you for waiting, and have a very safe weekend!!!!!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
