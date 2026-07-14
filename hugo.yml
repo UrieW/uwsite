@@ -27,6 +27,10 @@ params:
       url: "https://youtube.com/onlyuriew/"
     - name: steam
       url: "https://steamcommunity.com/id/Urie20th/"
+    - name: soundcloud
+      url: "https://soundcloud.com/"
+    - name reddit
+      url: "https://reddit.com/user/urie20th/"
 
   ShowReadingTime: true
   ShowPostNavLinks: true
