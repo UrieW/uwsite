@@ -22,13 +22,14 @@ of a paperback/hardback book blueprint and work from there with
 book cover making instructions with a gray 3-4px border around the
 boundaries of the document
 
-7. Save as a .jpg or a .tif
+7. Save as a jpg or a tif
+
 
 ----------------------------------------------------
 
 # IngramSpark instructions:  
 
-1. Open Inkscape
+1. open Inkscape
 
 2. Set the common measurement to px
 
@@ -40,9 +41,9 @@ boundaries of the document
 your book, with its contents being a few inches away
 from the sides, top and bottom
 
-6. Save the document as a .svg
+6. Save the document as  .svg
 
-7. Export the document as a .jpg  with the name being your
+7. Export the document as .jpg  with the name as your
 book's isbn and the word 'cover' attached to it
 
 8. Submit the .jpg when you submit your book

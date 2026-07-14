@@ -30,7 +30,7 @@ All page styles of real book, as a single-page-view-oriented, mirrored page
 style(No blank pages!!!), with no headers, nor footers nor page numbers!
 
 
-# Format for Maunscript:  
+# Format for Manuscript:  
 
 -------------------------------------
 

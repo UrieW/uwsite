@@ -7,6 +7,8 @@ categories = ["ebook"]
 
 # Instructions(Applies to LibreOffice Writer, so far)  
 
+### WARNING: PLEASE CONVERT YOUR PAPER/HARDBACK BOOK ODT FORMATS BEFORE USING THEM ON SUCH!!!!!!!!
+
 1. Open Calibre
 
 2. Upload ebook ODT to Calibre
